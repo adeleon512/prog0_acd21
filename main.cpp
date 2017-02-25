@@ -9,10 +9,10 @@
  */
 
 #include <iostream>
+
 using namespace std;
 
-int main()
-{
+int main() {
     cout << "Adam C. De Leon's Java Extraordinaire\n";
     cout << "\n";
     cout << "House Roast:\n";
